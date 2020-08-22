@@ -61,7 +61,7 @@ Set up the:
 After that, the **users** and **privileges of the shared folders** must be set.
 
 ### Backup and Redundancy
-As RAID Management cannot be used with USB Hubs, Rsync must do the job of mirroring date between the drives. 
+As RAID Management cannot be used with USB Hubs, Rsync must do the job of mirroring data between the drives. 
 
 ![Rsync](backup.png)
 
